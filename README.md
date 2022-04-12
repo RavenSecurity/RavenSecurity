@@ -33,6 +33,6 @@ Talk to me about:
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](https://dribbble.com/Kadd).
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow)
 
 
