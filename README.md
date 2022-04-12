@@ -29,6 +29,7 @@ Talk to me about:
 - Front-end development using **HTML, CSS, Javascript**.
 - Backend development using **NodeJS**(still learning).
 - Solving Data structure and algorithm questions in **Javascript**.
+- UX&UI Design using **Figma** and **Adobe XD**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](https://dribbble.com/Kadd).
