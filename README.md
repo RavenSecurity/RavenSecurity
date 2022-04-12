@@ -33,8 +33,6 @@ Talk to me about:
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](https://dribbble.com/Kadd).
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
 
 
