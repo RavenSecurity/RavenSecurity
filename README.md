@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-kaddoury-aa4035185/)](https://www.linkedin.com/in/rayane-kaddoury-aa4035185/) 
-[![Dribbble Badge](https://img.shields.io/badge/-ux/ui design-pink?style=flat-square&labelColor=pink&logo=Dribbble&link=https://dribbble.com/Kadd)](https://dribbble.com/Kadd)
+[![Dribbble Badge](https://img.shields.io/badge/-UX&UIdesign-pink?style=flat-square&labelColor=pink&logo=Dribbble&link=https://dribbble.com/Kadd)](https://dribbble.com/Kadd)
 [![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
 I am Rayane Kaddoury 😃. I am from Belgium and currently doing my bootcamp in Web Development @ Becode, Brussels. I love doing Front-End Dev and UX Design.
