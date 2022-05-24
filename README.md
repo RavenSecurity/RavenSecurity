@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3014284-Tmnt-Gif&psig=AOvVaw05gxUr8Ixx_alRB7FiFq_E&ust=1653489308041000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiRp-qt-PcCFQAAAAAdAAAAABAD)' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-@userdesks-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/userdesks)](https://twitter.com/userdesks) 
