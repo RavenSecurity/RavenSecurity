@@ -26,18 +26,19 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
 I am Rayane Kaddoury 😃. I am from Belgium and currently doing my bootcamp in Web Development @ Becode, Brussels. I love doing Front-End Dev and UX Design.
-## 👯 Communities
-* BeCode.
-* BMW
+
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, CSS, Javascript**.
 - Backend development using **NodeJS**(still learning).
 - Solving Data structure and algorithm questions in **Javascript**.
 - UX&UI Design using **Figma** and **Adobe XD**.
+## 👯 Communities
+* BeCode.
+* BMW
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](https://dribbble.com/Kadd).
+- 💬 Ask me about anything and everything.
+- 🎯 Portfolio site: [Dribbble](https://dribbble.com/Kadd).
 
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow)
 
