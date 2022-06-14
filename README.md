@@ -42,7 +42,7 @@ Talk to me about:
 * BeCode.
 * BMW
 * Fitness
-* Everything Design related (Fashion, Architecture, Visual Design, Automotive,...)
+* Everything Design related (Fashion, Architecture, Graphic Design, Automotive,...)
   
  
 
