@@ -41,9 +41,14 @@ Talk to me about:
 ## 👯 Communities
 * BeCode.
 * BMW
+* Fitness
+* Everything Design related
+  
+  <!--
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Dribbble](https://dribbble.com/Kadd).
+!-->
 
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow)
 
