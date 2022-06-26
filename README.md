@@ -33,7 +33,7 @@ I am Rayane Kaddoury 😃. I am from Belgium and currently doing my bootcamp in 
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, CSS, Javascript**.
+- Front-end development using **HTML, CSS, Javascript and React**.
 - CSS Frameworks using **Tailwind CSS**.
 - Backend development using **NodeJS**(my weakness).
 - Solving Data structure and algorithm questions in **Javascript**.
