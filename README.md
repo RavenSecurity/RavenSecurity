@@ -33,12 +33,17 @@ I am Rayane Kaddoury 😃. I am from Belgium and currently doing my bootcamp in 
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, CSS, Javascript and React**.
+- Front-end development using **Javascript & React**.
 - CSS Frameworks using **Tailwind CSS**.
-- Backend development using **NodeJS**(my weakness).
-- Solving Data structure and algorithm questions in **Javascript**.
+- Tools like **GSAP & Three.js**.
 - UX&UI Design using **Figma** and **Adobe XD**.
+- Solving Data structure and algorithm questions in **Javascript**.
+
+
+<!--
+- Backend development using **NodeJS**(my weakness).
 - **CyberSecurity** using Kali Linux
+!-->
   
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow)
 
