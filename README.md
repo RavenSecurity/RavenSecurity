@@ -37,7 +37,7 @@ Talk to me about:
 - CSS Frameworks using **Tailwind CSS**.
 - Tools like **GSAP & Three.js**.
 - UX&UI Design using **Figma** and **Adobe XD**.
-- Solving Data structure and algorithm questions in **Javascript**.
+- Solving Data structure and algorithm problems in **Javascript**.
 
 
 <!--
