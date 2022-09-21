@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 [![Dribbble Badge](https://img.shields.io/badge/-UX&UIdesign-pink?style=flat-square&labelColor=pink&logo=Dribbble&link=https://dribbble.com/Kadd)](https://dribbble.com/Kadd)
 [![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
-I am Rayane Kaddoury 😃. I'm a UX Designer @ Liki with a passion Front-End Development and UX Design.
+I am Rayane Kaddoury 😃
+UX Designer @ Liki with a passion Front-End Development and UX Design.
 
 ## ⚡ Technologies
 Talk to me about:
