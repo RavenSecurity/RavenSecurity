@@ -30,21 +30,17 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
 I am Rayane Kaddoury 😃
-UX Designer @ Liki with a passion Front-End Development and UX Design.
+Web Developer with experience in UX Design.
 
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **Javascript & React**.
-- CSS Frameworks using **Tailwind CSS**.
-- Tools like **GSAP & Three.js**.
-- UX&UI Design using **Figma** and **Adobe XD**.
-- Solving Data structure and algorithm problems in **Javascript**.
-
-
-<!--
-- Backend development using **NodeJS**(my weakness).
-- **CyberSecurity** using Kali Linux
-!-->
+- CSS frameworks and tricks.
+- Visual tools like **GSAP & Three.js**.
+- UX&UI Design using **Figma** and **Adobe Suite**.
+- Solving Data structure and algorithm problems in **Javascript & Python**.
+- Everything CyberSecurity and Kali Linux !
+- Backend development using **NodeJS**.
   
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow)
 
