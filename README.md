@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Dribbble Badge](https://img.shields.io/badge/-UX&UIdesign-pink?style=flat-square&labelColor=pink&logo=Dribbble&link=https://dribbble.com/Kadd)](https://dribbble.com/Kadd)
 [![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
-I am Rayane Kaddoury 😃
+I am Rayan 👋
 Web Developer with experience in UX Design.
 
 ## ⚡ Technologies
@@ -41,8 +41,8 @@ Talk to me about:
 - Solving Data structure and algorithm problems in **Javascript & Python**.
 - Everything CyberSecurity and Kali Linux !
 - Backend development using **NodeJS**.
-  
-![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow)
+
+![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow) 
 
  <!--
 ## Hello World!! 🤔
