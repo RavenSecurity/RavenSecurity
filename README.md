@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h2> 
 -->
 
-<img align='right' src='https://uploads.twitchalerts.com/000/098/810/101/giphy.gif' width='100"'>
+<img align='right' src='https://uploads.twitchalerts.com/000/098/810/101/giphy.gif' width='100'>
 
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-@userdesks-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/userdesks)](https://twitter.com/userdesks) 
