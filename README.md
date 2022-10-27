@@ -36,7 +36,7 @@ Talk to me about:
 - Web development using **Javascript & React**.
 - UX&UI Design using **Figma** and **Adobe Suite**.
 - Solving Data structure and algorithm problems in **Javascript & Python**.
-- Everything CyberSecurity and Kali Linux !
+- Everything CyberSecurity and **Kali Linux** !
 
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow) 
 
