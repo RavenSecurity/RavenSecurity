@@ -33,13 +33,10 @@ I am Rayan, Web Developer with experience in UX Design.
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **Javascript & React**.
-- CSS frameworks and tricks.
-- Visual tools like **GSAP & Three.js**.
+- Web development using **Javascript & React**.
 - UX&UI Design using **Figma** and **Adobe Suite**.
 - Solving Data structure and algorithm problems in **Javascript & Python**.
 - Everything CyberSecurity and Kali Linux !
-- Backend development using **NodeJS**.
 
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow) 
 
