@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-kaddoury-aa4035185/)](https://www.linkedin.com/in/rayane-kaddoury-aa4035185/) 
+[![Dribbble Badge](https://img.shields.io/badge/-UX&UIdesign-pink?style=flat-square&labelColor=pink&logo=Dribbble&link=https://dribbble.com/rayanekaddoury)](https://dribbble.com/rayanekaddoury)
+[![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
 <h2> 👋 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> !
   <!--
@@ -25,9 +28,6 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@userdesks-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/userdesks)](https://twitter.com/userdesks) 
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-kaddoury-aa4035185/)](https://www.linkedin.com/in/rayane-kaddoury-aa4035185/) 
-[![Dribbble Badge](https://img.shields.io/badge/-UX&UIdesign-pink?style=flat-square&labelColor=pink&logo=Dribbble&link=https://dribbble.com/rayanekaddoury)](https://dribbble.com/rayanekaddoury)
-[![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
 I am Rayan, Web Developer with experience in UX Design.
 
