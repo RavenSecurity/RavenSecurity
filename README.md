@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-kaddoury-aa4035185/)](https://www.linkedin.com/in/rayane-kaddoury-aa4035185/) 
-[![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
+
 
 <h2> 👋 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> !
   <!--
@@ -36,6 +35,7 @@ Talk to me about:
 - Everything CyberSecurity and **Kali Linux** !
 
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow) 
+ [![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-kaddoury-aa4035185/)](https://www.linkedin.com/in/rayane-kaddoury-aa4035185/) 
 
  <!--
 ## Hello World!! 🤔
