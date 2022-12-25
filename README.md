@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 -->
 
 
-I am Rayan, Web Developer with experience in UX Design.
+I am Rayan, Managed Services L1 Engineer at NTT Ltd. and I'm passionate about Cybersecurity.
 
 ## ⚡ Technologies
 Talk to me about:
-- Web development using **Javascript & React**.
-- UX&UI Design using **Figma** and **Adobe Suite**.
-- Solving Data structure and algorithm problems in **Javascript & Python**.
+- Solving Data structure and algorithm problems in **Python and Powershell**.
 - Everything CyberSecurity and **Kali Linux** !
 
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow) 
