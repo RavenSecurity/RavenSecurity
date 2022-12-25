@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-kaddoury-aa4035185/)](https://www.linkedin.com/in/rayane-kaddoury-aa4035185/) 
-[![Dribbble Badge](https://img.shields.io/badge/-UX&UIdesign-pink?style=flat-square&labelColor=pink&logo=Dribbble&link=https://dribbble.com/rayanekaddoury)](https://dribbble.com/rayanekaddoury)
 [![Gmail Badge](https://img.shields.io/badge/-rayanekaddoury@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanekaddoury@gmail.com)](mailto:rayanekaddoury@gmail.com)
 
 <h2> 👋 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> !
