@@ -32,7 +32,7 @@ I am Rayan, I work as a MS L1 Engineer at NTT Ltd. and I'm passionate about Cybe
 <!-- ## ⚡ Technologies -->
 Here's what I do:
 - Solving Data structure and algorithm problems in **Python and Powershell**.
-- Everything CyberSecurity and **Kali Linux** !
+- Everything **CyberSecurity and Kali Linux** !
 
 ![visitors](https://komarev.com/ghpvc/?username=RayaneKaddoury&color=yellow) 
  [![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-kaddoury-aa4035185/)](https://www.linkedin.com/in/rayane-kaddoury-aa4035185/) 
