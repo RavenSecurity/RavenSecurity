@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 I am Rayan, I work as a MS L1 Engineer at NTT Ltd. and I'm passionate about Cybersecurity.
 
 <!-- ## ⚡ Technologies -->
-Talk to me about:
+Here's what I do:
 - Solving Data structure and algorithm problems in **Python and Powershell**.
 - Everything CyberSecurity and **Kali Linux** !
 
