@@ -46,5 +46,3 @@ Here's what I do:
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Dribbble](https://dribbble.com/Kadd).
 !-->
-
-!-->
